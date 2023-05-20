@@ -1,0 +1,15 @@
+body{
+    color: white;
+    
+}
+
+.box{
+    width:100vw;
+    height:1000px;
+}
+
+form label{
+    padding: 5px;
+    background-color: rgb(27, 28, 36);
+    color:rgb(227, 214, 214);
+}
